@@ -8,7 +8,7 @@ An end-to-end computer-vision application that classifies solar-panel images int
 
 <p>
   <img src="images/electrical1.png" alt="Solar panel image predicted as Electrical-damage with 32.1% confidence" width="31%">
-  <img src="images/electrical_2_.png" alt="Solar panel image predicted as Electrical-damage with 76.1% confidence" width="31%">
+  <img src="images/electrical_2.png" alt="Solar panel image predicted as Electrical-damage with 76.1% confidence" width="31%">
   <img src="images/Physical_dmg.png" alt="Cracked solar panel image predicted as Physical-Damage with 84.5% confidence" width="31%">
 </p>
 
